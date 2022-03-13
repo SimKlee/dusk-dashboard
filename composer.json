@@ -52,5 +52,6 @@
                 "BeyondCode\\DuskDashboard\\DuskDashboardServiceProvider"
             ]
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
